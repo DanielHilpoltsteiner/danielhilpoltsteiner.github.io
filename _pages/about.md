@@ -12,4 +12,6 @@ redirect_from:
 Hi there, my name is Daniel and i'm located near Munich in Bavaria. 
 I'm currently a research associate, focussing on business processes in small and medium sized companys. 
 People would describe me as an real tech enthusiast.
+In the last years i was participating in ACM GCPC and NWERC as Coach of the university teams. 
+
 
