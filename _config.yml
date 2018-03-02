@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &hilpoltsteinerd
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Daniel Hilpoltsteiner"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research associate by day and open-source web enthusiast by night"
   location         : "Landshut, Bavaria, Germany"
-  employer         :
+  employer         : "University of applied sciences Landshut"
   googlescholar    : 
   email            : "daniel.hilpoltsteiner@haw-landshut.com"
   uri              :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "danielhilpoltsteiner"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : https://www.linkedin.com/in/daniel-hilpoltsteiner-186508b6/
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "HilpoltsteinerD"
   vine             :
   weibo            :
   xing             : "https://www.xing.com/profile/Daniel_Hilpoltsteiner/"
