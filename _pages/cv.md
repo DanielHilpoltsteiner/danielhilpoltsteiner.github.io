@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
+* B.S. in Business Informatics, UAS Landshut, 2015
+* M.S. in Informatics, UAS Landshut, 2017
+[comment]: # (Ph.D in Version Control Theory, Github University, 2018  )
+[comment]: # (This actually is the most platform independent comment)
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Since 2017: Research Associate
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
